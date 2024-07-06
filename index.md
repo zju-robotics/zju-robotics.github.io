@@ -4,8 +4,6 @@ layout: page
 
 ## 热烈欢迎2024级新同学
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
 首先祝贺各位顺利进入机器人工程专业，这里是23机器人工程学长组.
 
 本网站致力于为机器人工程专业的新同学老同学提供资源的分享，包括但不限于学习心得、经验分享，欢迎大家加入贡献者的行列.
@@ -16,7 +14,7 @@ layout: page
 
 本网页制作时使用了github上的开源项目GuangLun2000，特别鸣谢
 
-在进行基于上述开源项目修改时，我们大量参考了数学之韵[https://zju_math.pages.zjusct.io/mathweb/]、图灵班学习指南[https://zju-turing.github.io/TuringCourses/]和大名鼎鼎的csdiy[csdiy.wiki]
+在进行基于上述开源项目修改时，我们大量参考了[数学之韵](https://zju_math.pages.zjusct.io/mathweb/)、[图灵班学习指南](https://zju-turing.github.io/TuringCourses/)和大名鼎鼎的[csdiy](csdiy.wiki)
 
 在内容创作中，我们搬运了一些cc98论坛中原作者允许发布的贴子，这里再次表示感谢，一些不便于外传的帖子，如有需要请自行移步CC98控制天下版面[https://www.cc98.org/board/371]
 
