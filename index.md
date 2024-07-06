@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 热烈欢迎2024级新同学
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
