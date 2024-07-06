@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: 选课指导
+title: 待定
 ---
 
 
