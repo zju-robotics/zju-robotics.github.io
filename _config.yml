@@ -40,14 +40,14 @@ links:
     url: /
   - title: 选课指导
     url: /选课指导/
-  - title: Publications
-    url: /publications/
-  - title: Awards
+  - title: 实名疯狂的机器人
+    url: /实名疯狂的机器人/
+  - title: 资料
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: 畅所欲言
+    url: /畅所欲言/
+  - title: 友链
+    url: /友链/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
