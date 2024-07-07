@@ -46,8 +46,8 @@ links:
     url: /资料/
   - title: 畅所欲言
     url: /畅所欲言/
-##  - title: 友链
-##    url: /友链/
+  - title: 友链
+    url: /友链/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
