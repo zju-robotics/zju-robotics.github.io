@@ -1,8 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
+permalink: /畅所欲言/index.html
 title: 待补充
 ---
+互联网还是要谨言慎行，毕竟是我个人去备案的（
 
+稍后添加留言功能
 
 
