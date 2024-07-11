@@ -38,14 +38,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 写在最前面的
     url: /
+    title: 所以什么是机器人工程
+    url: /机器人工程概述/
   - title: 选课指导
     url: /选课指导/
   - title: 实名疯狂的机器人
     url: /实名疯狂的机器人/
-  - title: 资料
-    url: /资料/
+  - title: 大杂烩
+    url: /大杂烩/
   - title: 畅所欲言
     url: /畅所欲言/
+    
   - title: 友链
     url: /友链/
 
