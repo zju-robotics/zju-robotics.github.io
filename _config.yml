@@ -38,7 +38,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 写在最前面的
     url: /
-    title: 所以什么是机器人工程
+  - title: 所以什么是机器人工程
     url: /机器人工程概述/
   - title: 选课指导
     url: /选课指导/
